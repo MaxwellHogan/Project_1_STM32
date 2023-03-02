@@ -1,0 +1,3 @@
+../Drivers/l3gd20/Gyro_kit9.c:19:6:GYRO_IO_Write	16	static
+../Drivers/l3gd20/Gyro_kit9.c:54:6:GYRO_IO_Read	16	static
+../Drivers/l3gd20/Gyro_kit9.c:87:9:GYRO_Init	16	static

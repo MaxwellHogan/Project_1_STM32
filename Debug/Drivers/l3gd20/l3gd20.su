@@ -1,0 +1,13 @@
+../Drivers/l3gd20/l3gd20.c:119:6:L3GD20_Init	24	static
+../Drivers/l3gd20/l3gd20.c:142:6:L3GD20_DeInit	4	static
+../Drivers/l3gd20/l3gd20.c:151:9:L3GD20_ReadID	16	static
+../Drivers/l3gd20/l3gd20.c:170:6:L3GD20_RebootCmd	16	static
+../Drivers/l3gd20/l3gd20.c:189:6:L3GD20_LowPower	24	static
+../Drivers/l3gd20/l3gd20.c:203:6:L3GD20_INT1InterruptConfig	24	static
+../Drivers/l3gd20/l3gd20.c:234:6:L3GD20_EnableIT	24	static,ignoring_inline_asm
+../Drivers/l3gd20/l3gd20.c:266:6:L3GD20_DisableIT	24	static
+../Drivers/l3gd20/l3gd20.c:293:6:L3GD20_FilterConfig	24	static
+../Drivers/l3gd20/l3gd20.c:317:6:L3GD20_FilterCmd	24	static
+../Drivers/l3gd20/l3gd20.c:337:9:L3GD20_GetDataStatus	16	static
+../Drivers/l3gd20/l3gd20.c:352:6:L3GD20_ReadXYZAngRate_Raw	16	static
+../Drivers/l3gd20/l3gd20.c:364:6:L3GD20_ReadXYZAngRate	48	static
